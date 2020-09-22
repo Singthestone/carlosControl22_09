@@ -1,17 +1,17 @@
 /* *********************************** */
+
+
 /* *** ESTILOS GENERALES *** */
+
+
 /* *********************************** */
 
-/* Tipografía */
+
+/* CARGAR FUENTES */
+
 @font-face {
-    font-family: "";
-    src: url("") format("woof2"),
-         url("") format("woof");
+    font-family: "Roboto Normal";
+    src: url("font/roboto-medium-webfont.woff2") format("woof2"), url("font/roboto-medium-webfont.woff") format("woof"), url("font/Roboto-Medium.ttf") format("ttf");
+    font-family: "Roboto Italic";
+    src: url("font/roboto-italic-webfont.woff2") format("woof2"), url("font/roboto-medium-webfont.woff") format("woof"), url("font/Roboto-Italic.ttf") format("ttf");
 }
-
-/* ******************************** */
-
-/* Colores */
-
-/* ******************************** */
-

@@ -1,4 +1,40 @@
-/* *********************************** */
-/* *** Estilos SOLO para index.html *** */
-/* *********************************** */
+:root {
+    /* COLORES */
+    --color-1: #f2e8f3;
+    --color-2: #f7f0f7;
+    --color-3: #ffffff;
+    --color-4: #fac8ff;
+    --color-5: #1C1C1F;
+    --color-tipo-esp-header: #8D3B95;
+    --color-tipo-main: #5C5C5C;
+    --color-tipo-footer: #ffffff;
+    /* Tipografía */
+}
 
+body {
+    background: var(--color-1);
+    padding: 30px 15px;
+}
+
+.inconoAtras {
+    height: 0.1 em;
+    width: 0.1 em;
+}
+
+.cont1 {
+    background: var(--color-2);
+    height: 100vh;
+    border-radius: 20px;
+    padding: 10px 10px 480px 10px;
+}
+
+.contBlanco {
+    background: var(--color-3);
+    height: 100vh;
+    border-radius: 20px;
+    padding: 10px 5px;
+}
+
+.parteArriba {
+    padd
+}
